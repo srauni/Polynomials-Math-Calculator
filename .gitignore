@@ -131,3 +131,5 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+/procession/.vs/procession/lut
+/procession/.vs/procession/v16/Server/sqlite3
